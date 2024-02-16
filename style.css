@@ -1,0 +1,31 @@
+.borde{
+    border: 10px solid pink;
+    width: 50%;
+    height: 500px;
+    background-image: url(1686838009_kartin-papik-pro-p-kartinki-s-dnem-rozhdeniya-tsveti-60.jpg);
+    border-radius:30% ;
+
+ }
+ body{
+    background-image: url(flat-lay-composition-of-wrapped-presents-with-copy-space.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .borderr{
+    border: 10px solid pink;
+    height:500px;
+    background-color:bisque;
+    width: 602px;
+    border-radius: 30%;
+ }
+ .bigbox{
+    border: none;
+    width: 100%;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ 
